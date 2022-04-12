@@ -1,4 +1,4 @@
-#Time Series of Precipitaion in São Paulo
+   # Time Series of Precipitaion in São Paulo
 
 This project is the culmination of my undergradutate thesis for my bachelor in Computer Engineer. 
 
@@ -8,6 +8,6 @@ the predict values.
 
 The project is divided in two parts:
 
-1 - Analysis of the historical series components: trend, sesonality, auto-correlation and other factor.
+1. Analysis of the historical series components: trend, sesonality, auto-correlation and other factor.
 
-2 - Modeling a forecast model based on the time series using ARIMA. 
+2. Modeling a forecast model based on the time series using ARIMA. 

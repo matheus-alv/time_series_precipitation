@@ -8,6 +8,6 @@ the predict values.
 
 ## The project is divided into two parts:
 
-1. Analysis of the historical series components: trend, sesonality, auto-correlation and other factors.
+1. Analysis of the series components and it's behavior: trend, sesonality, auto-correlation and other factors.
 
-2. Modeling a forecast model based on the time series using ARIMA. 
+2. Modeling a forecast model based on the time series analysis.

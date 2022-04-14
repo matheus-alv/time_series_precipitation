@@ -1,5 +1,0 @@
-# Environments
-.ts
-ts/
-.venv
-venv/

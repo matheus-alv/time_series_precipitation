@@ -2,12 +2,12 @@
 
 This project is the python code for my undergradutate thesis for my bachelor in Computer Engineer. 
 
-I used the data avaiable on BDMEP, which is the database for INMET, both from conventional and automatic soucers to eliminate
-missing values. 30 years from the data set were analyzed and used to create the model, the last 2 were used to compare against
-the predict values.
+The goal was to create a time series model to best predict the monthly amount of rainfall precipitation for São Paulo city in the upcoming months. 
 
-## The project is divided into two parts:
+The dataset used for training and creating the model was obtained through BDMEP, which is the offical data base for INMET (National Institute of Meteorology). The data was subsequently treated for missing values using sources from conventional and automatic stations, which are different methods of measuring precipitation in any given day. 
 
-1. Analysis of the series components and it's behavior: trend, sesonality, auto-correlation and other factors.
+The presumption was that a SARIMA(X) model would best fit the dataset, since besides correlations with the previous months,rainfall does have a seasonal component to it, as the amount of precipitation of a certain month has correlation to the same month from the previous year, as we can observe due to the planet seasons.
 
-2. Modeling a forecast model based on the time series analysis.
+The notebook contains the analysis and discussions of the time series components, as well as the model creation and performance evaluation. More detail can be found on the notebook itself.
+
+

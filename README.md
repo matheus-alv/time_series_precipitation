@@ -1,4 +1,4 @@
-   # Time Series of Precipitaion in São Paulo
+   # Time Series of Precipitation in São Paulo
 
 This project is the python code for my undergradutate thesis for my bachelor in Computer Engineer. 
 

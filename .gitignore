@@ -1,6 +1,6 @@
 # Environments
-.ts
-ts/
+.tcc
+tcc/
 /ts/
 .venv
 venv/
